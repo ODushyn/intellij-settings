@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="runTAXReportPreparation" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Work\projects\tax-batch\tax-batch-dist\target\bin\reportPreparation\runTAXReportPreparation.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Work/projects/tax-batch/tax-batch-dist/target/bin/reportPreparation" />
+    </exec>
+  </tool>
+  <tool name="runTaxAccountLoader" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Work\projects\tax-batch\tax-batch-dist\bin\runTaxAccountLoader.bat" />
+      <option name="PARAMETERS" value="ctp-rsb_tax_m01_account_20180727.xml" />
+      <option name="WORKING_DIRECTORY" value="C:/Work/projects/tax-batch/tax-batch-dist/bin" />
+    </exec>
+  </tool>
+</toolSet>
