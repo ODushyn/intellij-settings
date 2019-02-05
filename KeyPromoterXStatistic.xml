@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>37</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -55,6 +55,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit">
+        <Item>
+          <IdeaActionID>Console.TableResult.EditValue</IdeaActionID>
+          <ShortCut>'F2' or 'Enter' or 'Alt+Enter'</ShortCut>
+          <Description>Edit</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -134,7 +142,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>22</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'cldp-jetty'">
@@ -286,7 +294,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
