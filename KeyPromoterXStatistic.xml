@@ -97,6 +97,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Maven Projects">
+        <Item>
+          <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
+          <ShortCut>'Alt+M'</ShortCut>
+          <Description>Maven Projects</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Folder...">
         <Item>
           <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
