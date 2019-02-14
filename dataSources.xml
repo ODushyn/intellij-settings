@@ -1,6 +1,6 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="aci-docker" uuid="725d4c89-7b75-4386-b7ed-17bee5c025f0">
+    <data-source source="LOCAL" name="docker" uuid="725d4c89-7b75-4386-b7ed-17bee5c025f0">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
       <auto-commit>false</auto-commit>
