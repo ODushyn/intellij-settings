@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ctp-rsb_tax_m01_account" type="PLAIN_TEXT" />
-      <mapping pattern="tax_m01_nortax_interest_account" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="Bat" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="ctp-rsb_tax_m01_account" type="PLAIN_TEXT" />
       <mapping pattern="tax_m01_nortax_charge_account" type="PLAIN_TEXT" />
-      <mapping ext="3" type="PLAIN_TEXT" />
+      <mapping pattern="tax_m01_nortax_interest_account" type="PLAIN_TEXT" />
+      <mapping ext="jenkins" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="jenkins" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping pattern="123" type="XML" />
     </extensionMap>
   </component>
