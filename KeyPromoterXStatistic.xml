@@ -17,6 +17,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Change Signature...">
+        <Item>
+          <IdeaActionID>ChangeSignature</IdeaActionID>
+          <ShortCut>'Ctrl+F6'</ShortCut>
+          <Description>Change Signature...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Columns List">
         <Item>
           <IdeaActionID>Console.TableResult.ColumnsList</IdeaActionID>
@@ -94,7 +102,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>269</Count>
+          <Count>273</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -193,12 +201,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+M'</ShortCut>
+          <Description>Method...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move...">
         <Item>
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -361,11 +377,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SourceAccountTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SourceAccountTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'SourceAccountTest.getDebitInterestSum_givenActiveAccount'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'SourceAccountTest.getDebitInterestSum_givenActiveAccount'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SourceAccountTest.getDebitInterestSum_givenOverdraftWithDefaultPeriodLessThan90Days'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SourceAccountTest.getDebitInterestSum_givenOverdraftWithDefaultPeriodLessThan90Days'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -462,6 +494,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Spring5webappApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'run-cucumber-with-db-clean'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'run-cucumber-with-db-clean'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -630,7 +670,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
     </option>
