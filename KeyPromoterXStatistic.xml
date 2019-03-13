@@ -118,7 +118,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>304</Count>
+          <Count>305</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -158,6 +166,14 @@
           <IdeaActionID>UsageView.Exclude</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Exclude</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Execute</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -310,7 +326,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>56</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -478,7 +494,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Feature: tax_load_account_file'">
@@ -526,7 +542,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'run cucumber tests'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'run-cucumber-with-db-clean'">
@@ -710,7 +726,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
     </option>
