@@ -1,6 +1,10 @@
 <code_scheme name="CoreRenewalBE" version="173">
   <option name="RIGHT_MARGIN" value="180" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="25" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="15" />
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
