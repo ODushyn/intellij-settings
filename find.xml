@@ -16,5 +16,6 @@
     <mask>!*.log</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>!app.log</mask>
   </component>
 </application>
