@@ -425,6 +425,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'ACCSChargeServiceImplTest.testchargesAdditionalCapitalizevalidate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ACCSChargeServiceImplTest.testchargesAdditionalCapitalizevalidate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'AccountInterestCalculationTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -894,7 +902,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
     </option>
