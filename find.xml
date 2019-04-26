@@ -19,5 +19,6 @@
     <mask>*.xsd</mask>
     <mask>!*-project.xml</mask>
     <mask>*.java</mask>
+    <mask>*19_2*</mask>
   </component>
 </application>
