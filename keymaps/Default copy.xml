@@ -21,4 +21,7 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
 </keymap>
