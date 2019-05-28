@@ -729,6 +729,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'Ctrl+S'</ShortCut>
+          <Description>Save All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show All Affected Files">
         <Item>
           <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
