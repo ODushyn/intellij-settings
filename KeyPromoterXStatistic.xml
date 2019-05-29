@@ -166,7 +166,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1332</Count>
+          <Count>1335</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -439,6 +439,14 @@
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ACCSChargeServiceImplTest.testChargeDetailsAdjustWithCalculatedChargeDetailsWithoutChargeCategory'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ACCSChargeServiceImplTest.testChargeDetailsAdjustWithCalculatedChargeDetailsWithoutChargeCategory'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ACCSChargeServiceImplTest.testchargesAdditionalCapitalizevalidate'">
@@ -950,7 +958,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
     </option>
