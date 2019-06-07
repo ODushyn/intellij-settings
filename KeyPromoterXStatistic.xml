@@ -137,6 +137,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'TaxBatchJobLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'TaxBatchJobLauncher'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'TaxBatchPreparation'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'TaxBatchPreparation'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'jetty'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -166,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1339</Count>
+          <Count>1341</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -422,7 +438,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>210</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -561,6 +577,22 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TaxBatchJobLauncher'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'TaxBatchJobLauncher'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TaxBatchPreparation'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'TaxBatchPreparation'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'cldp-jetty'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -630,7 +662,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -849,6 +881,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TaxBatchJobLauncher'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TaxBatchJobLauncher'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TaxBatchPreparation'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TaxBatchPreparation'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Unnamed'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -942,7 +990,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>175</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
